@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 👋 Bonjour à tous, Kenmoe Ngounou Gaëtand développeur fullstack. J'ai commencé le développement 18. Je suis diplômée d'une école d'ingenieur en informatique. J'ai 9 ans d'expériences dans le développement.
+- 👋 Bonjour à tous, Kenmoe Ngounou Gaëtand développeur fullstack. J'ai commencé le développement à 18 ans. Je suis diplômée d'une école d'ingenieur en informatique. J'ai 9 ans d'expériences dans le développement.
 
 - 👀 Je maitrise le PHP, Python, Visual Basic, HTML5, CSS3, .Net, JavaScript
 
